@@ -1,0 +1,1 @@
+Para executar um arquivo .sh, primeiro você precisa torná-lo executável usando o comando chmod +x nome_do_arquivo.sh. Em seguida, execute-o no terminal com ./nome_do_arquivo.sh ou bash nome_do_arquivo.sh.
